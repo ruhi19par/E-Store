@@ -1,5 +1,5 @@
 # E-Store Backend
-<style>
+<!-- <style>
 table {
   width: 100%;
   border-collapse: collapse;
@@ -26,7 +26,7 @@ code {
   background: #333;
   padding: 3px 6px;
   border-radius: 5px;
-}
+} -->
 </style>
 <h2>Auth Module</h2>
 <table>
