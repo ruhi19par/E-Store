@@ -1,4 +1,4 @@
-**Electronic Store Backend (E-Store)**
+#**Electronic Store Backend (E-Store)**
 
 A backend application for an e-commerce platform built using Spring Boot.
 It provides RESTful APIs to manage users, products, carts, orders, and categories with secure authentication and efficient data handling.
@@ -21,6 +21,14 @@ MySQL
 Swagger (OpenAPI)
 
 
+**Key Features**
+
+RESTful API design
+JWT-based authentication and authorization
+Pagination and sorting support
+Search and filtering capabilities
+Image upload and retrieval for users, products, and categories
+Clean layered architecture (Controller, Service, Repository)
 
 <h2>Auth Module</h2>
 <table>
