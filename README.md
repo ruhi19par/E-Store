@@ -1,16 +1,16 @@
-Electronic Store Backend (E-Store)
+*Electronic Store Backend (E-Store)*
 
 A backend application for an e-commerce platform built using Spring Boot.
 It provides RESTful APIs to manage users, products, carts, orders, and categories with secure authentication and efficient data handling.
 
 
-Overview
+*Overview*
 
 This project is designed following a layered architecture to ensure scalability and maintainability.
 It supports core e-commerce functionalities such as product management, cart operations, and order processing, along with authentication and image handling.
 
 
-Tech Stack
+*Tech Stack*
 
 Java
 Spring Framework
