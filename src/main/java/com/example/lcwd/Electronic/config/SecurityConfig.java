@@ -129,8 +129,8 @@ public class SecurityConfig {
     }
 
     @Bean
-    public AuthenticationManager authenticationManager(AuthenticationConfiguration builder){
-       return builder.getAuthenticationManager();
+    public AuthenticationManager authenticationManager(AuthenticationConfiguration builder) throws Exception {
+        return builder.getAuthenticationManager();
     }
     @Bean
     public FilterRegistrationBean<CorsFilter> corsFilter() {
