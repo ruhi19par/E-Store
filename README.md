@@ -1,5 +1,8 @@
 # E Store Backend
 
+**Live ER Diagram:** https://er-diagram-beta.vercel.app/
+
+
 A backend application for an e-commerce platform built using Spring Boot.  
 It provides RESTful APIs to manage users, products, carts, orders, and categories with secure authentication and efficient data handling.
 
