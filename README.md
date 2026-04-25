@@ -25,9 +25,6 @@ It supports core e-commerce functionalities such as product management, cart ope
 - MySQL  
 - Swagger (OpenAPI)  
 
-Deployment:
-- AWS EC2 (Backend)  
-- Railway (Database)
 
 ---
 
